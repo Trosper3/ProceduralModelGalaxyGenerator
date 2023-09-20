@@ -1,0 +1,1 @@
+C:\Users\mtros\AppData\Local\Microsoft\WindowsApps\python3.exe C:\Users\mtros\PycharmProjects\SolarSimulation\main.py
